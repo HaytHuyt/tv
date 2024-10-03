@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     document.getElementById('current-date').textContent = formattedDate;
   
     // Ekranı ve alarmları güncelle
-    fetch('https://dummyjson.com/c/2ca6-997b-4bd5-927a')
+    fetch('https://raw.githubusercontent.com/HaytHuyt/tv/refs/heads/main/channels.json') // Yeni JSON dosya URL'i
       .then(response => response.json())
       .then(data => {
         const container = document.getElementById('data-container');
