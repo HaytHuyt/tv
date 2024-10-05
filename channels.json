@@ -1,62 +1,322 @@
 [
     {
-        "time": "19:30",
-        "name": "Tivibu Spor 2",
-        "text": "Karlsruher SC - Darmstadt 98"
+        "time": "13:30",
+        "name": "BeIN Sports 1",
+        "text": "Kasımpaşa - Bodrum FK"
     },
     {
-        "time": "19:30",
-        "name": "S Sport Plus",
-        "text": "Napoli - Como"
-    },
-    {
-        "time": "19:30",
-        "name": "S Sport 2",
-        "text": "Napolii - Como"
-    },
-    {
-        "time": "19:30",
-        "name": "Tivibu Spor 3",
-        "text": "Paderborn - Jahn Regensburg"
-    },
-    {
-        "time": "20:00",
-        "name": "Tabii",
-        "text": "Erzurumspor FK - Boluspor"
-    },
-    {
-        "time": "20:00",
+        "time": "13:30",
         "name": "TRT Spor",
-        "text": "Erzurumspor FK - Boluspor"
+        "text": "Ümraniyespor - Bandırmaspor"
+    },
+    {
+        "time": "13:30",
+        "name": "Tabii",
+        "text": "Ümraniyespor - Bandırmaspor"
+    },
+    {
+        "time": "13:30",
+        "name": "BeIN Sports 2",
+        "text": "Ümraniyespor - Bsndırmaspor"
+    },
+    {
+        "time": "14:00",
+        "name": "BeIN Sports 4",
+        "text": "Köln - Ulm 1846"
+    },
+    {
+        "time": "14:00",
+        "name": "beIN Connect",
+        "text": "Elversberg -  Kaiserslautern"
+    },
+    {
+        "time": "14:00",
+        "name": "Tivibu Spor 1",
+        "text": "Köln - Ulm 1846"
+    },
+    {
+        "time": "14:00",
+        "name": "Tivibu Spor 2",
+        "text": "Elversberg - Kaiserslautern"
+    },
+    {
+        "time": "14:00",
+        "name": "BeIN MAX1",
+        "text": "Nürnberg - Preussen Münster"
+    },
+    {
+        "time": "14:30",
+        "name": "TV 8,5",
+        "text": "Burnley - Preston North End"
+    },
+    {
+        "time": "14:30",
+        "name": "EXXEN",
+        "text": "Burnley - Preston North End"
+    },
+    {
+        "time": "14:30",
+        "name": "BeIN Sports 3",
+        "text": "Crystal Palace - Liverpool"
+    },
+    {
+        "time": "15:00",
+        "name": "S Sport",
+        "text": "Espanyol - Mallorca"
+    },
+    {
+        "time": "15:00",
+        "name": "S Sport Plus",
+        "text": "Espanyol - Mallorca"
+    },
+    {
+        "time": "15:00",
+        "name": "beIN Connect",
+        "text": "Caen - Lorient"
+    },
+    {
+        "time": "16:00",
+        "name": "BeIN Sports 1",
+        "text": "Göztepe - Sivasspor"
+    },
+    {
+        "time": "16:00",
+        "name": "BeIN Sports 2",
+        "text": "MKE Ankaragücü - Adanaspor"
+    },
+    {
+        "time": "16:00",
+        "name": "Tabii",
+        "text": "MKE Ankaragücü - Adanaspor"
+    },
+    {
+        "time": "16:00",
+        "name": "TRT Spor",
+        "text": "MKE Ankaragücü - Adanaspor"
+    },
+    {
+        "time": "16:00",
+        "name": "S Sport Plus",
+        "text": "Udinese - Lecce"
+    },
+    {
+        "time": "16:30",
+        "name": "beIN Connect",
+        "text": "Bochum - Wolfsburg"
+    },
+    {
+        "time": "16:30",
+        "name": "Tivibu Spor 2",
+        "text": "Union Berlin - Borussia Dortmund"
+    },
+    {
+        "time": "16:30",
+        "name": "BeIN MAX2",
+        "text": "Union Berlin - Borussia Dortmund"
+    },
+    {
+        "time": "16:30",
+        "name": "Tivibu Spor 1",
+        "text": "Bayer Leverkusen - Holstein Kiel"
+    },
+    {
+        "time": "16:30",
+        "name": "BeIN MAX1",
+        "text": "Bayer Leverkusen - Holstein Kiel"
+    },
+    {
+        "time": "16:30",
+        "name": "beIN Connect",
+        "text": "Werder Bremen - Freiburg"
+    },
+    {
+        "time": "17:00",
+        "name": "BeIN Sports 4",
+        "text": "Arsenal - Southampton"
+    },
+    {
+        "time": "17:00",
+        "name": "BeIN Sports 3",
+        "text": "Manchester City - Fulham"
+    },
+    {
+        "time": "17:00",
+        "name": "TV 8,5",
+        "text": "West Bromwich - Millwall"
+    },
+    {
+        "time": "17:00",
+        "name": "beIN Connect",
+        "text": "Leicester City -  Bournemouth"
+    },
+    {
+        "time": "17:00",
+        "name": "EXXEN",
+        "text": "West Bromwich -  Millwall"
+    },
+    {
+        "time": "17:00",
+        "name": "beIN Connect",
+        "text": "Brentford - Wolverhampton"
+    },
+    {
+        "time": "17:00",
+        "name": "beIN Connect",
+        "text": "West Ham United - Ipswich Town"
+    },
+    {
+        "time": "17:15",
+        "name": "S Sport",
+        "text": "Getafe - Osasuna"
+    },
+    {
+        "time": "17:15",
+        "name": "S Sport Plus",
+        "text": "Getafe - Osasuna"
+    },
+    {
+        "time": "18:00",
+        "name": "beIN Connect",
+        "text": "Saint-Etienne - Auxerre"
+    },
+    {
+        "time": "19:00",
+        "name": "TRT Spor",
+        "text": "Fatih Karagümrük - Yeni Malatyaspor"
+    },
+    {
+        "time": "19:00",
+        "name": "BeIN MAX1",
+        "text": "Fatih Karagümrük - Sakaryaspor"
+    },
+    {
+        "time": "19:00",
+        "name": "BeIN MAX2",
+        "text": "Şanlıurfaspor -  Yeni Malatyaspor"
+    },
+    {
+        "time": "19:00",
+        "name": "BeIN Sports 1",
+        "text": "Hatayspor - Trabzonspor"
+    },
+    {
+        "time": "19:00",
+        "name": "BeIN Sports 2",
+        "text": "Başakşehir FK - Kayserispor"
+    },
+    {
+        "time": "19:00",
+        "name": "Tabii",
+        "text": "Şanlıurfaspor - Yeni Malatyaspor"
+    },
+    {
+        "time": "19:00",
+        "name": "S Sport Plus",
+        "text": "Atalanta - Genoa"
+    },
+    {
+        "time": "19:15",
+        "name": "TV 8,5",
+        "text": "Kortrijk - Genk"
+    },
+    {
+        "time": "19:15",
+        "name": "EXXEN",
+        "text": "Kortrijk - Genk"
+    },
+    {
+        "time": "19:30",
+        "name": "Tivibu Spor 1",
+        "text": "St Pauli - Mainz 05"
+    },
+    {
+        "time": "19:30",
+        "name": "BeIN Sports 3",
+        "text": "Everton - Newcastle United"
+    },
+    {
+        "time": "19:30",
+        "name": "EXXEN",
+        "text": "Panaitolikos - AEK Atina"
+    },
+    {
+        "time": "19:30",
+        "name": "S Sport Plus",
+        "text": "Panaitolikos - AEK Atina"
+    },
+    {
+        "time": "19:30",
+        "name": "BeIN Sports 4",
+        "text": "St Pauli - Mainz 05"
+    },
+    {
+        "time": "19:30",
+        "name": "S Sport Plus",
+        "text": "Las Palmas - Celta Vigo"
+    },
+    {
+        "time": "19:30",
+        "name": "S Sport Plus",
+        "text": "Valladolid - Rayo Vallecano"
+    },
+    {
+        "time": "19:30",
+        "name": "S Sport",
+        "text": "Valladolid - Rayo Vallecano"
     },
     {
         "time": "20:00",
-        "name": "Tabii",
-        "text": "Çorum FK - Iğdır FK"
+        "name": "beIN Connect",
+        "text": "Lille - Toulouse"
     },
     {
-        "time": "21:30",
-        "name": "Tivibu Spor 1",
-        "text": "Augsburg - Mönchengladbach"
+        "time": "21:00",
+        "name": "EXXEN",
+        "text": "PSV Eindhoven - Sparta Rotterdam"
     },
     {
-        "time": "21:30",
+        "time": "21:00",
         "name": "S Sport Plus",
-        "text": "Huesca - Cadiz"
+        "text": "Al Ahli Jeddah -  Al Hilal Riyadh"
+    },
+    {
+        "time": "21:00",
+        "name": "beIN Connect",
+        "text": "Metz - Amiens FC"
+    },
+    {
+        "time": "21:30",
+        "name": "Tivibu Spor 2",
+        "text": "Schalke 04 - Hertha Berlin"
+    },
+    {
+        "time": "21:30",
+        "name": "BeIN Sports 4",
+        "text": "Schalke 04 - Hertha Berlin"
     },
     {
         "time": "21:45",
         "name": "S Sport Plus",
-        "text": "Hellas Verona - Venezia"
+        "text": "Inter - Torino"
     },
     {
         "time": "22:00",
-        "name": "TV 8,5",
-        "text": "Sunderland - Leeds United"
+        "name": "S Sport Plus",
+        "text": "Real Madrid - Villarreal"
     },
     {
         "time": "22:00",
-        "name": "EXXEN",
-        "text": "Sunderland - Leeds United"
+        "name": "S Sport",
+        "text": "Real Madrid - Villarreal"
+    },
+    {
+        "time": "22:00",
+        "name": "BeIN Sports 3",
+        "text": "Rennes - Monaco"
+    },
+    {
+        "time": "22:30",
+        "name": "S Sport Plus",
+        "text": "Sporting CP - Casa Pia"
     }
 ]
