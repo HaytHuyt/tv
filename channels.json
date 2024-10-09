@@ -2,16 +2,31 @@
     {
         "time": "13:00",
         "name": "A Spor",
-        "text": "Kilis Belediyespor - Balıkesirspor"
+        "text": "Adıyaman 1954 - Afyonspor"
+    },
+    {
+        "time": "13:30",
+        "name": "GS TV",
+        "text": "Galatasaray Divan Kurulu"
     },
     {
         "time": "15:00",
         "name": "A Spor",
-        "text": "Zonguldak Spor FK - Kırıkkale FK"
+        "text": "Altay - Karaman FK"
+    },
+    {
+        "time": "15:00",
+        "name": "Smartspor",
+        "text": "Wuhan Jiangda - Incheon"
+    },
+    {
+        "time": "15:00",
+        "name": "Smartspor 2",
+        "text": "Odisha - Ho Chi Minh"
     },
     {
         "time": "19:00",
         "name": "A Spor",
-        "text": "Fehiyespor - Düzcespor"
+        "text": "Giresunspor - Viranşehir Bld."
     }
 ]
