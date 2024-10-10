@@ -1,32 +1,162 @@
 [
     {
+        "time": "12:10",
+        "name": "Smartspor",
+        "text": "Avustralya - Çin"
+    },
+    {
         "time": "13:00",
         "name": "A Spor",
-        "text": "Adıyaman 1954 - Afyonspor"
-    },
-    {
-        "time": "13:30",
-        "name": "GS TV",
-        "text": "Galatasaray Divan Kurulu"
-    },
-    {
-        "time": "15:00",
-        "name": "A Spor",
-        "text": "Altay - Karaman FK"
+        "text": "Osmaniyespor FK - Diyarbekir Spor"
     },
     {
         "time": "15:00",
         "name": "Smartspor",
-        "text": "Wuhan Jiangda - Incheon"
+        "text": "Özbekistan - İran"
     },
     {
         "time": "15:00",
+        "name": "A Spor",
+        "text": "Uşak Spor A.Ş. - Bursaspor"
+    },
+    {
+        "time": "16:00",
+        "name": "Bilyoner TV",
+        "text": "Namibya - Zimbabve"
+    },
+    {
+        "time": "17:00",
         "name": "Smartspor 2",
-        "text": "Odisha - Ho Chi Minh"
+        "text": "Ürdün - Güney Kore"
+    },
+    {
+        "time": "19:00",
+        "name": "Bilyoner TV",
+        "text": "Demokratik Kongo Cumhuriyeti - Tanzanya"
+    },
+    {
+        "time": "19:00",
+        "name": "Bilyoner TV",
+        "text": "Yeşil Burun Adaları - Botsvana"
+    },
+    {
+        "time": "19:00",
+        "name": "Bilyoner TV",
+        "text": "Bahreyn - Endonezya"
+    },
+    {
+        "time": "19:00",
+        "name": "TRT Spor",
+        "text": "Türkiye U20 - Portekiz U20"
+    },
+    {
+        "time": "19:00",
+        "name": "EXXEN",
+        "text": "Letonya - Kuzey Makedonya"
+    },
+    {
+        "time": "19:00",
+        "name": "Tabii",
+        "text": "Türkiye U20 - Portekiz U20"
     },
     {
         "time": "19:00",
         "name": "A Spor",
-        "text": "Giresunspor - Viranşehir Bld."
+        "text": "Erciyes 38 FSK - Orduspor 1967 SK"
+    },
+    {
+        "time": "19:00",
+        "name": "EXXEN",
+        "text": "Moldova - Andorra"
+    },
+    {
+        "time": "19:00",
+        "name": "TV 8,5",
+        "text": "Letonya - Kuzey Makedonya"
+    },
+    {
+        "time": "19:00",
+        "name": "Smartspor",
+        "text": "Katar - Kırgızistan"
+    },
+    {
+        "time": "19:00",
+        "name": "Smartspor 2",
+        "text": "Birleşik Arap Emirlikleri - Kuzey Kore"
+    },
+    {
+        "time": "21:00",
+        "name": "Smartspor",
+        "text": "Suudi Arabistan - Japonya"
+    },
+    {
+        "time": "21:00",
+        "name": "Smartspor 2",
+        "text": "Irak - Filistin"
+    },
+    {
+        "time": "21:45",
+        "name": "EXXEN",
+        "text": "İsrail - Fransa"
+    },
+    {
+        "time": "21:45",
+        "name": "EXXEN",
+        "text": "İtalya - Belçika"
+    },
+    {
+        "time": "21:45",
+        "name": "EXXEN",
+        "text": "İngiltere - Yunanistan"
+    },
+    {
+        "time": "21:45",
+        "name": "EXXEN",
+        "text": "Cebeli Tarık - San Marino"
+    },
+    {
+        "time": "21:45",
+        "name": "EXXEN",
+        "text": "Finlandiya - İrlanda Cumhuriyeti"
+    },
+    {
+        "time": "21:45",
+        "name": "EXXEN",
+        "text": "Norveç - Slovenya"
+    },
+    {
+        "time": "21:45",
+        "name": "EXXEN",
+        "text": "Avusturya - Kazakistan"
+    },
+    {
+        "time": "21:45",
+        "name": "EXXEN",
+        "text": "Faroe Adaları - Ermenistan"
+    },
+    {
+        "time": "21:45",
+        "name": "TV 8,5",
+        "text": "İtalya - Belçika"
+    },
+    {
+        "time": "21:45",
+        "name": "S Sport Plus",
+        "text": "Finlandiya - İrlanda Cumhuriyeti"
+    },
+    {
+        "time": "22:00",
+        "name": "Bilyoner TV",
+        "text": "Burkina Faso - Burundi"
+    },
+    {
+        "time": "22:00",
+        "name": "Bilyoner TV",
+        "text": "Cezayir - Togo"
+    },
+    {
+        "time": "23:00",
+        "name": "Bilyoner TV",
+        "text": "Bolivya - Kolombiya"
     }
 ]
