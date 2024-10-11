@@ -1,162 +1,152 @@
 [
     {
-        "time": "12:10",
-        "name": "Smartspor",
-        "text": "Avustralya - Çin"
-    },
-    {
-        "time": "13:00",
-        "name": "A Spor",
-        "text": "Osmaniyespor FK - Diyarbekir Spor"
-    },
-    {
-        "time": "15:00",
-        "name": "Smartspor",
-        "text": "Özbekistan - İran"
-    },
-    {
-        "time": "15:00",
-        "name": "A Spor",
-        "text": "Uşak Spor A.Ş. - Bursaspor"
+        "time": "16:00",
+        "name": "Bilyoner TV",
+        "text": "Zambiya - Çad"
     },
     {
         "time": "16:00",
         "name": "Bilyoner TV",
-        "text": "Namibya - Zimbabve"
+        "text": "Mozambik - Estavini"
+    },
+    {
+        "time": "16:00",
+        "name": "Bilyoner TV",
+        "text": "Ekvator Ginesi - Liberya"
     },
     {
         "time": "17:00",
-        "name": "Smartspor 2",
-        "text": "Ürdün - Güney Kore"
+        "name": "Bilyoner TV",
+        "text": "Madagaskar - Gambiya"
     },
     {
         "time": "19:00",
         "name": "Bilyoner TV",
-        "text": "Demokratik Kongo Cumhuriyeti - Tanzanya"
+        "text": "Nijerya - Libya"
     },
     {
         "time": "19:00",
         "name": "Bilyoner TV",
-        "text": "Yeşil Burun Adaları - Botsvana"
+        "text": "Kamerun - Kenya"
     },
     {
         "time": "19:00",
         "name": "Bilyoner TV",
-        "text": "Bahreyn - Endonezya"
-    },
-    {
-        "time": "19:00",
-        "name": "TRT Spor",
-        "text": "Türkiye U20 - Portekiz U20"
+        "text": "Uganda - Güney Sudan"
     },
     {
         "time": "19:00",
         "name": "EXXEN",
-        "text": "Letonya - Kuzey Makedonya"
+        "text": "Estonya - Azerbaycan"
     },
     {
         "time": "19:00",
-        "name": "Tabii",
-        "text": "Türkiye U20 - Portekiz U20"
+        "name": "Bilyoner TV",
+        "text": "Benin - Ruanda"
     },
     {
         "time": "19:00",
+        "name": "Bilyoner TV",
+        "text": "Mısır - Moritanya"
+    },
+    {
+        "time": "19:00",
+        "name": "Bilyoner TV",
+        "text": "Gana - Sudan"
+    },
+    {
+        "time": "19:30",
         "name": "A Spor",
-        "text": "Erciyes 38 FSK - Orduspor 1967 SK"
+        "text": "Türkiye U21 - Letonya U21"
     },
     {
-        "time": "19:00",
-        "name": "EXXEN",
-        "text": "Moldova - Andorra"
-    },
-    {
-        "time": "19:00",
-        "name": "TV 8,5",
-        "text": "Letonya - Kuzey Makedonya"
-    },
-    {
-        "time": "19:00",
-        "name": "Smartspor",
-        "text": "Katar - Kırgızistan"
-    },
-    {
-        "time": "19:00",
-        "name": "Smartspor 2",
-        "text": "Birleşik Arap Emirlikleri - Kuzey Kore"
-    },
-    {
-        "time": "21:00",
-        "name": "Smartspor",
-        "text": "Suudi Arabistan - Japonya"
-    },
-    {
-        "time": "21:00",
-        "name": "Smartspor 2",
-        "text": "Irak - Filistin"
+        "time": "20:00",
+        "name": "Bilyoner TV",
+        "text": "Gümey Afrikka - Kongo"
     },
     {
         "time": "21:45",
         "name": "EXXEN",
-        "text": "İsrail - Fransa"
+        "text": "Türkiye - Karadağ"
     },
     {
         "time": "21:45",
         "name": "EXXEN",
-        "text": "İtalya - Belçika"
-    },
-    {
-        "time": "21:45",
-        "name": "EXXEN",
-        "text": "İngiltere - Yunanistan"
-    },
-    {
-        "time": "21:45",
-        "name": "EXXEN",
-        "text": "Cebeli Tarık - San Marino"
-    },
-    {
-        "time": "21:45",
-        "name": "EXXEN",
-        "text": "Finlandiya - İrlanda Cumhuriyeti"
-    },
-    {
-        "time": "21:45",
-        "name": "EXXEN",
-        "text": "Norveç - Slovenya"
-    },
-    {
-        "time": "21:45",
-        "name": "EXXEN",
-        "text": "Avusturya - Kazakistan"
-    },
-    {
-        "time": "21:45",
-        "name": "EXXEN",
-        "text": "Faroe Adaları - Ermenistan"
+        "text": "İzlanda - Galler"
     },
     {
         "time": "21:45",
         "name": "TV 8,5",
-        "text": "İtalya - Belçika"
+        "text": "Bosna Hersek - Almanya"
     },
     {
         "time": "21:45",
-        "name": "S Sport Plus",
-        "text": "Finlandiya - İrlanda Cumhuriyeti"
+        "name": "TV8",
+        "text": "Türkiye - Karadağ"
+    },
+    {
+        "time": "21:45",
+        "name": "EXXEN",
+        "text": "Slovakya - İsveç"
+    },
+    {
+        "time": "21:45",
+        "name": "EXXEN",
+        "text": "Çekya - Arnavutluk"
+    },
+    {
+        "time": "21:45",
+        "name": "EXXEN",
+        "text": "Ukranya - Gürcistan"
+    },
+    {
+        "time": "21:45",
+        "name": "EXXEN",
+        "text": "Macaristan - Hollanda"
+    },
+    {
+        "time": "21:45",
+        "name": "EXXEN",
+        "text": "Bosna Hersek - Almanya"
     },
     {
         "time": "22:00",
         "name": "Bilyoner TV",
-        "text": "Burkina Faso - Burundi"
+        "text": "Senegal - Malavi"
     },
     {
         "time": "22:00",
         "name": "Bilyoner TV",
-        "text": "Cezayir - Togo"
+        "text": "Angola - Nijer"
+    },
+    {
+        "time": "22:00",
+        "name": "Bilyoner TV",
+        "text": "Gabon - Lesotho"
+    },
+    {
+        "time": "22:00",
+        "name": "Bilyoner TV",
+        "text": "Fildişi Sahili - Sierra Leone"
+    },
+    {
+        "time": "22:00",
+        "name": "Bilyoner TV",
+        "text": "Mali - Gine Bissau"
+    },
+    {
+        "time": "22:00",
+        "name": "Bilyoner TV",
+        "text": "Tunus - Komorlar"
     },
     {
         "time": "23:00",
         "name": "Bilyoner TV",
-        "text": "Bolivya - Kolombiya"
+        "text": "Sint Maarten - Porto Riko Bilyoner"
+    },
+    {
+        "time": "23:00",
+        "name": "Bilyoner TV",
+        "text": "Guadeloupe - Martinik"
     }
 ]
