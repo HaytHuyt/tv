@@ -1,152 +1,87 @@
 [
     {
         "time": "16:00",
-        "name": "Bilyoner TV",
-        "text": "Zambiya - Çad"
+        "name": "EXXEN",
+        "text": "Litvanya - Kosova"
     },
     {
         "time": "16:00",
-        "name": "Bilyoner TV",
-        "text": "Mozambik - Estavini"
-    },
-    {
-        "time": "16:00",
-        "name": "Bilyoner TV",
-        "text": "Ekvator Ginesi - Liberya"
-    },
-    {
-        "time": "17:00",
-        "name": "Bilyoner TV",
-        "text": "Madagaskar - Gambiya"
-    },
-    {
-        "time": "19:00",
-        "name": "Bilyoner TV",
-        "text": "Nijerya - Libya"
-    },
-    {
-        "time": "19:00",
-        "name": "Bilyoner TV",
-        "text": "Kamerun - Kenya"
-    },
-    {
-        "time": "19:00",
-        "name": "Bilyoner TV",
-        "text": "Uganda - Güney Sudan"
+        "name": "TV 8,5",
+        "text": "Litvanya - Kosova"
     },
     {
         "time": "19:00",
         "name": "EXXEN",
-        "text": "Estonya - Azerbaycan"
+        "text": "Hırvatistan - İskoçya"
+    },
+    {
+        "time": "19:00",
+        "name": "EXXEN",
+        "text": "Bulgaristan - Lüksemburg"
+    },
+    {
+        "time": "19:00",
+        "name": "TV 8,5",
+        "text": "Hırvatistan - İskoçya"
     },
     {
         "time": "19:00",
         "name": "Bilyoner TV",
-        "text": "Benin - Ruanda"
-    },
-    {
-        "time": "19:00",
-        "name": "Bilyoner TV",
-        "text": "Mısır - Moritanya"
-    },
-    {
-        "time": "19:00",
-        "name": "Bilyoner TV",
-        "text": "Gana - Sudan"
+        "text": "Gine - Etiyopya"
     },
     {
         "time": "19:30",
-        "name": "A Spor",
-        "text": "Türkiye U21 - Letonya U21"
+        "name": "S Sport",
+        "text": "Eibar - Eldense"
     },
     {
-        "time": "20:00",
+        "time": "19:30",
         "name": "Bilyoner TV",
-        "text": "Gümey Afrikka - Kongo"
+        "text": "Cadiz - Malaga"
+    },
+    {
+        "time": "19:30",
+        "name": "S Sport Plus",
+        "text": "Eibar - Eldense"
     },
     {
         "time": "21:45",
         "name": "EXXEN",
-        "text": "Türkiye - Karadağ"
+        "text": "İspanya - Danimarka"
     },
     {
         "time": "21:45",
         "name": "EXXEN",
-        "text": "İzlanda - Galler"
+        "text": "Polonya - Portekiz"
+    },
+    {
+        "time": "21:45",
+        "name": "EXXEN",
+        "text": "Belarus - Kuzey İrlanda"
+    },
+    {
+        "time": "21:45",
+        "name": "EXXEN",
+        "text": "Sırbistan - İsviçre"
+    },
+    {
+        "time": "21:45",
+        "name": "EXXEN",
+        "text": "Güney Kıbrıs - Romanya"
     },
     {
         "time": "21:45",
         "name": "TV 8,5",
-        "text": "Bosna Hersek - Almanya"
-    },
-    {
-        "time": "21:45",
-        "name": "TV8",
-        "text": "Türkiye - Karadağ"
-    },
-    {
-        "time": "21:45",
-        "name": "EXXEN",
-        "text": "Slovakya - İsveç"
-    },
-    {
-        "time": "21:45",
-        "name": "EXXEN",
-        "text": "Çekya - Arnavutluk"
-    },
-    {
-        "time": "21:45",
-        "name": "EXXEN",
-        "text": "Ukranya - Gürcistan"
-    },
-    {
-        "time": "21:45",
-        "name": "EXXEN",
-        "text": "Macaristan - Hollanda"
-    },
-    {
-        "time": "21:45",
-        "name": "EXXEN",
-        "text": "Bosna Hersek - Almanya"
+        "text": "Polonya - Portekiz"
     },
     {
         "time": "22:00",
         "name": "Bilyoner TV",
-        "text": "Senegal - Malavi"
-    },
-    {
-        "time": "22:00",
-        "name": "Bilyoner TV",
-        "text": "Angola - Nijer"
-    },
-    {
-        "time": "22:00",
-        "name": "Bilyoner TV",
-        "text": "Gabon - Lesotho"
-    },
-    {
-        "time": "22:00",
-        "name": "Bilyoner TV",
-        "text": "Fildişi Sahili - Sierra Leone"
-    },
-    {
-        "time": "22:00",
-        "name": "Bilyoner TV",
-        "text": "Mali - Gine Bissau"
-    },
-    {
-        "time": "22:00",
-        "name": "Bilyoner TV",
-        "text": "Tunus - Komorlar"
+        "text": "Fas - Orta Afrika Cumhuriyeti"
     },
     {
         "time": "23:00",
-        "name": "Bilyoner TV",
-        "text": "Sint Maarten - Porto Riko Bilyoner"
-    },
-    {
-        "time": "23:00",
-        "name": "Bilyoner TV",
-        "text": "Guadeloupe - Martinik"
+        "name": "TV100",
+        "text": "Ersin Düzen İle Futbolun 100'ü"
     }
 ]
