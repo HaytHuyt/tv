@@ -1,77 +1,72 @@
 [
     {
-        "time": "15:00",
-        "name": "Bilyoner TV",
-        "text": "Huesca - Albacete"
-    },
-    {
-        "time": "16:00",
-        "name": "TV 8,5",
-        "text": "Kazakistan - Slovenya"
-    },
-    {
-        "time": "16:00",
+        "time": "19:00",
         "name": "EXXEN",
-        "text": "Kazakistan - Slovenya"
+        "text": "Azerbaycan - Slovakya"
     },
     {
-        "time": "17:15",
+        "time": "19:00",
+        "name": "EXXEN",
+        "text": "Gürcistan - Arnavutluk"
+    },
+    {
+        "time": "21:30",
         "name": "S Sport Plus",
-        "text": "Racing Santander - Levante"
-    },
-    {
-        "time": "17:15",
-        "name": "S Sport",
-        "text": "Racing Santander - Levante"
-    },
-    {
-        "time": "19:00",
-        "name": "A Spor",
-        "text": "Bursaspor - Kahramanmaraşspor"
-    },
-    {
-        "time": "19:00",
-        "name": "TV 8,5",
-        "text": "Finlandiya - İngiltere"
-    },
-    {
-        "time": "19:00",
-        "name": "EXXEN",
-        "text": "Malta - Moldova"
-    },
-    {
-        "time": "19:00",
-        "name": "EXXEN",
-        "text": "Lihtenştayn - Cebelitarık"
-    },
-    {
-        "time": "19:00",
-        "name": "EXXEN",
-        "text": "Ermenistan - Kuzey Makedonya"
-    },
-    {
-        "time": "19:00",
-        "name": "EXXEN",
-        "text": "Finlandiya - İngiltere"
+        "text": "Sporting Gijon - CD Castellon"
     },
     {
         "time": "21:45",
         "name": "EXXEN",
-        "text": "Yunanistan - İrlanda Cumhuriyeti"
+        "text": "Galler - Karadağ"
+    },
+    {
+        "time": "21:45",
+        "name": "S Sport Plus",
+        "text": "Ukrayna - Çekya"
     },
     {
         "time": "21:45",
         "name": "TV 8,5",
-        "text": "Avusturya - Norveç"
+        "text": "Almanya - Hollanda"
+    },
+    {
+        "time": "21:45",
+        "name": "TV8",
+        "text": "İzlanda - Türkiye"
     },
     {
         "time": "21:45",
         "name": "EXXEN",
-        "text": "Avusturya - Norveç"
+        "text": "Estonya - İsveç"
     },
     {
-        "time": "22:00",
-        "name": "Bilyoner TV",
-        "text": "Elche - Deportivo"
+        "time": "21:45",
+        "name": "EXXEN",
+        "text": "Ukrayna - Çekya"
+    },
+    {
+        "time": "21:45",
+        "name": "EXXEN",
+        "text": "Almanya - Hollanda"
+    },
+    {
+        "time": "21:45",
+        "name": "EXXEN",
+        "text": "Bosna Hersek - Macaristan"
+    },
+    {
+        "time": "21:45",
+        "name": "EXXEN",
+        "text": "İtalya - İsrail"
+    },
+    {
+        "time": "21:45",
+        "name": "EXXEN",
+        "text": "Belçika - Fransa"
+    },
+    {
+        "time": "21:45",
+        "name": "EXXEN",
+        "text": "İzlanda - Türkiye"
     }
 ]
