@@ -1,197 +1,132 @@
 [
     {
-        "time": "13:35",
-        "name": "Smartspor",
-        "text": "Japonya - Avustralya"
-    },
-    {
-        "time": "14:00",
-        "name": "Smartspor 2",
-        "text": "Güney Kore - Irak"
-    },
-    {
-        "time": "15:00",
+        "time": "11:35",
         "name": "Bilyoner TV",
-        "text": "Çin - Endonezya"
+        "text": "CC Mariners - Melbourne V."
     },
     {
-        "time": "16:00",
+        "time": "13:00",
         "name": "Bilyoner TV",
-        "text": "Çad - Zambiya"
+        "text": "V. Kobe - Tokyo"
     },
     {
-        "time": "16:00",
+        "time": "13:00",
         "name": "Bilyoner TV",
-        "text": "Lesotho - Gabon"
+        "text": "Kawasaki - Gamba Osaka"
     },
     {
-        "time": "16:00",
-        "name": "Bilyoner TV",
-        "text": "Sudan - Gana"
+        "time": "18:00",
+        "name": "S Sport Plus",
+        "text": "Al Hilal Riyadh - Al Fayha"
     },
     {
-        "time": "16:00",
-        "name": "Bilyoner TV",
-        "text": "Tanzanya - D. Kongo Cum"
+        "time": "18:00",
+        "name": "TRT Spor",
+        "text": "Al Hilal Riyadh - Al Fayha"
     },
     {
-        "time": "16:00",
-        "name": "Bilyoner TV",
-        "text": "Malavi - Senegal"
+        "time": "19:30",
+        "name": "Tivibu Spor 2",
+        "text": "Darmstadt 98- Köln"
     },
     {
-        "time": "16:00",
-        "name": "Bilyoner TV",
-        "text": "Güney Sudan - Uganda"
-    },
-    {
-        "time": "17:00",
-        "name": "Smartspor",
-        "text": "Özbekistan - Birleşik Arap Emirlikleri"
-    },
-    {
-        "time": "17:00",
-        "name": "Smartspor 2",
-        "text": "Kırgızistan - Kuzey Kore"
-    },
-    {
-        "time": "19:00",
-        "name": "Bilyoner TV",
-        "text": "Filistin - Kuveyt"
-    },
-    {
-        "time": "19:00",
-        "name": "Smartspor",
-        "text": "İran - Katar"
-    },
-    {
-        "time": "19:00",
-        "name": "Smartspor 2",
-        "text": "Ürdün - Umman"
-    },
-    {
-        "time": "19:00",
-        "name": "Bilyoner TV",
-        "text": "Kongo - Güney Afrika"
-    },
-    {
-        "time": "19:00",
-        "name": "Bilyoner TV",
-        "text": "Gine Bissau - Mali"
-    },
-    {
-        "time": "19:00",
-        "name": "Bilyoner TV",
-        "text": "Sierra Leone - Fildişi Sahili"
-    },
-    {
-        "time": "19:00",
-        "name": "Bilyoner TV",
-        "text": "Moritanya - Mısır"
-    },
-    {
-        "time": "19:00",
-        "name": "Bilyoner TV",
-        "text": "İran - Katar"
-    },
-    {
-        "time": "19:00",
-        "name": "Bilyoner TV",
-        "text": "Botsvana - Yeşil Burun Adaları"
-    },
-    {
-        "time": "19:00",
-        "name": "Bilyoner TV",
-        "text": "Nijer - Angola"
-    },
-    {
-        "time": "19:00",
-        "name": "Bilyoner TV",
-        "text": "Ruanda - Benin"
+        "time": "19:30",
+        "name": "Tivibu Spor 3",
+        "text": "Hertha Berlin - Braunschweig"
     },
     {
         "time": "20:00",
-        "name": "Ekol TV",
-        "text": "Az Önce konuştum - İbrahim Hacıosmanoğlu"
+        "name": "TRT Spor",
+        "text": "Yeni Malatyaspor - MKE Ankaragücü"
+    },
+    {
+        "time": "20:00",
+        "name": "Bilyoner TV",
+        "text": "Kopenhag - Vejle"
+    },
+    {
+        "time": "20:00",
+        "name": "Tabii",
+        "text": "Yeni Malatyaspor - MKE Ankaragücü"
     },
     {
         "time": "21:00",
         "name": "Bilyoner TV",
-        "text": "Suudi Arabistan - Bahreyn"
+        "text": "Cambuur - Volendam"
     },
     {
         "time": "21:00",
-        "name": "Smartspor",
-        "text": "Suudi Arabistan - Bahreyn"
+        "name": "Bilyoner TV",
+        "text": "Jong Alkmaar - Helmond Sport"
+    },
+    {
+        "time": "21:00",
+        "name": "Bilyoner TV",
+        "text": "ADO Den Haag - Roda"
+    },
+    {
+        "time": "21:00",
+        "name": "Bilyoner TV",
+        "text": "Graafschap - Jong PSV"
+    },
+    {
+        "time": "21:00",
+        "name": "Bilyoner TV",
+        "text": "Eindhoven - Emmen"
+    },
+    {
+        "time": "21:00",
+        "name": "S Sport Plus",
+        "text": "Al Shabab Riyadh - Al Nassr"
+    },
+    {
+        "time": "21:30",
+        "name": "Bilyoner TV",
+        "text": "Borussia Dortmund-  Saint Pauli"
+    },
+    {
+        "time": "21:30",
+        "name": "Tivibu Spor 1",
+        "text": "Borussia Dortmund- St. Pauli"
+    },
+    {
+        "time": "21:30",
+        "name": "Bilyoner TV",
+        "text": "Asvel - Baskonia"
+    },
+    {
+        "time": "21:30",
+        "name": "Bilyoner TV",
+        "text": "Cordoba - Cartagena"
+    },
+    {
+        "time": "21:30",
+        "name": "Bilyoner TV",
+        "text": "Bari - Catanzaro"
+    },
+    {
+        "time": "21:30",
+        "name": "Bilyoner TV",
+        "text": "Lechia Gdansk - Legia Varşova"
     },
     {
         "time": "21:45",
-        "name": "EXXEN",
-        "text": "Polonya Hırvatistan"
-    },
-    {
-        "time": "21:45",
-        "name": "EXXEN",
-        "text": "İsviçre - Danimarka"
-    },
-    {
-        "time": "21:45",
-        "name": "EXXEN",
-        "text": "İspanya - Sırbistan"
-    },
-    {
-        "time": "21:45",
-        "name": "EXXEN",
-        "text": "İskoçya - Portekiz"
-    },
-    {
-        "time": "21:45",
-        "name": "TV 8,5",
-        "text": "İspanya - Sırbistan"
-    },
-    {
-        "time": "21:45",
-        "name": "EXXEN",
-        "text": "Kuzey İrlanda - Bulgaristan"
-    },
-    {
-        "time": "21:45",
-        "name": "EXXEN",
-        "text": "Kosova - Güney Kıbrıs"
-    },
-    {
-        "time": "21:45",
-        "name": "EXXEN",
-        "text": "Litvanya - Romanya"
-    },
-    {
-        "time": "21:45",
-        "name": "EXXEN",
-        "text": "Belarus - Lüksemburg"
+        "name": "Bilyoner TV",
+        "text": "Monaco - Lille"
     },
     {
         "time": "22:00",
         "name": "Bilyoner TV",
-        "text": "Libya - Nijerya"
+        "text": "Deportivo Alaves - Real Valladolid"
     },
     {
         "time": "22:00",
-        "name": "Bilyoner TV",
-        "text": "Orta Afrika Cumhuriyeti - Fas"
+        "name": "S Sport Plus",
+        "text": "Deportivo Alaves - Real Valladolid"
     },
     {
         "time": "22:00",
-        "name": "Bilyoner TV",
-        "text": "Komorlar - Tunus"
-    },
-    {
-        "time": "22:00",
-        "name": "Bilyoner TV",
-        "text": "Etiyopya - Gine"
-    },
-    {
-        "time": "23:30",
-        "name": "Bilyoner TV",
-        "text": "Kolombiya - Şili"
+        "name": "EXXEN",
+        "text": "Leeds United - Sheffield United"
     }
 ]
